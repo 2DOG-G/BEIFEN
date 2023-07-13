@@ -7,25 +7,22 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 </head>
 
 <body>
-  <!-- 导航栏 -->
-  <nav>
-    <a href="#/test">EN</a>
-    <a href="#/zh-cn/">中文</a>
-    <a href="#/baidu.com">baidu </a>
-  </nav>
-
-  <div id="app">加载中...</div>
+  <div id="app"></div>
   <script>
     window.$docsify = {
       name: '',
-      repo: 'Cool-doc/cool-doc.github.io',
+      repo: '',
 
       // 导航栏
       loadNavbar: true,
+
+      // 封面
+      coverpage: true,
 
       // 侧边栏
       loadSidebar: true,
@@ -47,7 +44,7 @@
           words: "",
           minute: ""
         },
-        isExpected: true
+        isExpected: false,
       },
 
       // 下一章节
@@ -62,36 +59,37 @@
         crossChapterText: true,
       },
 
-      copy: '<span>Acme &copy; 12312312312313</span>',
-      auth: 'by Me',
-      pre: '<hr/>',
-      style: 'text-align: right;',
-      class: 'className',
+      // 主题
+      themeable: {
+        readyTransition: false,
+        responsiveTables: true,
+      },
+
+      ads: {
+        img: 'https://dn-lego-static.qbox.me/cps/1638355965-480x300.jpg',
+        href: 'https://docsify.js.org/#/zh-cn/custom-navbar?id=%e6%95%b4%e5%90%88%e8%87%aa%e5%ae%9a%e4%b9%89%e5%af%bc%e8%88%aa%e6%a0%8f%e4%b8%8e-emoji-%e6%8f%92%e4%bb%b6'
+      },
 
     }
   </script>
 
-
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-
+  <!-- 主题 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  <!-- 封面 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <!-- 字数统计 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
-
   <!-- 下一章节 -->
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-
-  <!-- 导航栏 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-
   <!-- emoji -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
-
   <!-- 代码复制到剪贴板 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
 
-  <!-- footer -->
-  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+  <!-- 广告 -->
+  <script src="https://unpkg.com/docsify-ads@1.0.4/dist/docsify-ads.min.js"></script>
 </body>
 
 </html>
