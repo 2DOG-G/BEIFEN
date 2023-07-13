@@ -1,2 +1,1 @@
-[Home](/)
-* [Guide](guide.md "The greatest guide in the world")
+- [**欢迎回家**](/README.md)
