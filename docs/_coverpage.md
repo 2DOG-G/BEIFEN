@@ -4,4 +4,4 @@
 
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](/readme)
+[Get Started](/README.md)
