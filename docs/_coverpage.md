@@ -3,5 +3,4 @@
 # 2DOG.DOG
 
 
-[GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](/README.md)
