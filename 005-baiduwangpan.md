@@ -5,14 +5,17 @@
 ---
 |基于浏览器油猴插件|||
 |---|---|---|
-|[官网地址](https://www.tampermonkey.net/)|[Chrome应用商店](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)|[备用下载](https://pan.2dog.dog/OD_02/01-RuanJian/003-GuGeLiuLanQiChaJian/tampermonkey_stable.crx)|
+|[官网地址](https://www.tampermonkey.net/)|[Chrome应用商店](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)|[备用下载](https://pan.2dog.dog/OD_02/01-RuanJian/003-GuGeLiuLanQiChaJian)|
 ---
 ### 非会员不限速下载
 > 油猴插件:[安装地址](https://greasyfork.org/zh-CN/scripts/463171-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8D%83%E5%8D%83%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)
 >
 > 备用下载:[下载地址](https://pan.2dog.dog/OD_02/01-RuanJian/002-BaiDuWangPan) (下载后的JS文件直接拖入油猴的**管理面板**页面即可)
->
-> 自带完整的使用教程,不再复述;
+
+> - 以Motrix为例
+> 
+> ![](/img/2023-07-15-22-23-01.png)
+> ![](/img/2023-07-15-22-26-18.png)
 
 ---
 ### 秒传
