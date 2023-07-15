@@ -1,5 +1,12 @@
 # 欢迎访问2DOG.DOG<!-- {docsify-ignore-all} -->
 ----
+## 备用地址
+> [https://2dog.dog](https://2dog.dog)
+> [https://1.2dog.dog](https://1.2dog.dog)
+> [https://2.2dog.dog](https://2.2dog.dog)
+> [https://3.2dog.dog](https://3.2dog.dog)
+> [https://4.2dog.dog](https://4.2dog.dog)
+----
 - 本网站致力于基础电脑知识扫盲，黑科技分享等；
 - 主要应用场景为Windows/Android/Linux等；
 ----
