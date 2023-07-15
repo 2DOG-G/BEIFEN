@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zn_CN">
+
+<head>
+  <meta charset="UTF-8">
+  <title>2DOG.DOG</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+</head>
+
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: '',
+      repo: '',
+      coverpage: true,
+
+      homepage: 'home.md',
+      loadSidebar: true, // 侧边栏
+      readyTransition: true, // 主题-加载动画
+      responsiveTables: true, // 主题
+      subMaxLevel: 3,  //侧边栏加载标题深度
+
+
+      'flexible-alerts': {
+        note: {
+          label: "提示"
+        },
+        tip: {
+          label: "注意"
+        },
+        warning: {
+          label: "警告"
+        },
+        attention: {
+          label: "禁止"
+        }
+      },
+
+    }
+  </script>
+
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> -->
+  <!-- 主題 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+</body>
+
+</html>
