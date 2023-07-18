@@ -47,3 +47,9 @@
 |||||
 |:---:|:---:|:---:|:---:|
 |[TIM:QQ替代品](https://office.qq.com/)|[KOOK:YY替代品](https://www.kookapp.cn/)|
+
+### 代理翻墙
+|||||
+|:---:|:---:|:---:|:---:|
+|[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)|[nekoray](https://github.com/Matsuridayo/nekoray/releases)|[v2rayN](https://github.com/2dust/v2rayN/releases)|[Shadowsocks for Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)|
+|[v2raya](https://github.com/v2rayA/v2rayA/releases)|[WireGuard](https://www.wireguard.com/)|[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)|[ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)|
