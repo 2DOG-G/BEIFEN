@@ -4,6 +4,9 @@
 >[!note|style:flat|iconVisibility:hidden|labelVisibility:hidden]
 > 最后更新时间:2023年7月14日
 
+>[!ATTENTION|style:flat|iconVisibility:hidden|labelVisibility:hidden]
+> 本文章已失效
+
 ----
 <div align=center>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Cool-doc/AliDrive-auto-check-in">
